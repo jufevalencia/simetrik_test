@@ -3,6 +3,11 @@
 
 # Documentacion para la prueba 1 
 
+Soluciones el problema teniendo en cuenta el numero de partidos que se jugaron  que era la suma de los partidos de todos los jugadores , dividida por 2 que es 
+el numero de jugadores de un partido de pingpong ,  teniendo en cuenta este numero , halle el  numero minimo de partidos que pudo jugar un jugador que perdiera 
+todos sus partidos ,  tanto empezando en el primer partido como empezando en el segundo , luego de encontrar ese numero minimo lo compare con los partidos jugados por cada 
+jugador y asi halle el jugador que jugo el segundo partido.
+
 # Funciones 
 
 # myRange
